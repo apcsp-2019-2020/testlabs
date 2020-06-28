@@ -1,3 +1,4 @@
-lab50:
+lab50: true
+
   files:
     - !include Lab0a1.java
